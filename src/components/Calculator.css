@@ -1,31 +1,50 @@
-button{
-width: 3em;
-height: 3em;
-font-size: 1.5em;
-border: none;
-border-radius: 3em;
-margin: 0.3em; ;
+
+
+
+button {
+ cursor: pointer;
+  width: 3em;
+  height: 3em;
+  font-size: 1.5em;
+  border: none;
+  border-radius: 3em;
+  margin: 0.3em;
 }
 button :hover {
-    cursor: pointer;
+  cursor: pointer;
 }
 .wrapper {
-    background-color: black;
-    border-radius: 1em;
-
+  background-color: black;
+  border-radius: 1em;
 }
-.orange{
-    background-color: #FF9500;
-    color: white;
+.orange {
+  background-color:rgb(46, 44, 44) ;
+  color: rgb(255, 81, 0);
 }
 .gray {
-    background-color: #1C1C1C;
-    color: white;
+  background-color: #1c1c1c;
+  color: rgb(196, 196, 196);
 }
-.result{
+
+.green{
+    background-color: rgb(46, 44, 44);
+    color: greenyellow;
+}
+.equal{
+    background-color:greenyellow ;
+}
+.result {
+  color: white;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 1em;
+  font-size: 3.5em;
+}
+.back{
+    background-color: #1c1c1c;
+
+}
+.title{
     color: white;
-    display: flex;
-    justify-content: flex-end;
-    margin-right: 1em ;
-    font-size: 3.5em;
+    margin-top: 0;
 }

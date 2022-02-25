@@ -5,7 +5,7 @@ In this project we will use these technologies:
 1-React Js
 2-HTML
 3-CSS
-4-Javascript
+4-Javascrip
 
 colors used:
 #D4D4D2
