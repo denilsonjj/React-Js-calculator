@@ -1,10 +1,8 @@
 ## Calculadora
+<div>
+<img src="/calculator/src/components/img/cauculator.gif.gif" alt="">
 
-<img src="/calculator/src/components/calculator.gif.gif" alt="">
 
-
-
-## Para iniciar o projeto vá ao terminal e use:
 <p>nmp start<p>
 <hr>
 
