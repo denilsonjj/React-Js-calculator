@@ -1,19 +1,26 @@
-The calculator was inspired by the iphone app.
+## Calculadora
 
-In this project we will use these technologies:
+<img src="/calculator/src/components/calculator.gif.gif" alt="">
 
-1-React Js
-2-HTML
-3-CSS
-4-Javascrip
 
-colors used:
-#D4D4D2
-#1C1C1C
-#505050
-#FF9500
 
+## Para iniciar o projeto vá ao terminal e use:
+<p>nmp start<p>
+<hr>
+
+<div>
+<h1>Tecnologias usadas no projeto</h1>
+
+</div>
+
+
+
+
+
+<div>
 libraries:
 npm i @emotion/styled
+</div>
+
 
 
